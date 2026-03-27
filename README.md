@@ -88,8 +88,6 @@ This platform mimics real-world interview environments and provides feedback to 
 
 ## 📷 Screenshots
 
-(Add your screenshots here after uploading to GitHub)
-
 ### 🔹 Login Page
 
 ![Login](./screenshots/login.png)
