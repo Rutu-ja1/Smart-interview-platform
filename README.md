@@ -106,7 +106,7 @@ This platform mimics real-world interview environments and provides feedback to 
 
 ### 🔹 Mock-Video-Interview
 
-![Mock-Video-Interview](./screenshots/Mock-Video-Interview.png)
+![Video Interview](./screenshots/mock-video-interview.png)
 
 
 ### 🔹 Analytics
